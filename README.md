@@ -11,3 +11,6 @@ No projeto falta algumas folhas de estilos, mas você poderá visualizar o proje
 - JavaScript
 - Google Firebase (Banco noSQL)
 - Arquitetura MVC
+
+### Imagem do projeto
+![firebase](https://user-images.githubusercontent.com/6588753/42545541-039da868-848f-11e8-8516-384efbec7621.png)
